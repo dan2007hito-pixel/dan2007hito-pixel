@@ -128,11 +128,11 @@ Hệ thống quản lý nhà hàng và đặt bàn.
 
 ## 📊 GitHub Overview
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dan2007hito-pixel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12">
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=dan2007hito-pixel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan2007hito-pixel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan2007hito-pixel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"> -->
 
-<br>
+<!-- <br> -->
 
 <img width="75%" src="https://streak-stats.demolab.com?user=dan2007hito-pixel&theme=tokyonight&hide_border=true&border_radius=12">
 
